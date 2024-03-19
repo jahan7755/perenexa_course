@@ -1,0 +1,17 @@
+1)class and object
+2)Encapsulation
+3)access modifiers
+4)construct
+5)destructer
+6)inheritance types in php
+7)Magic methods
+8)this keyword 
+9)abstract  method
+10)interface
+11)final keyword and class and function 
+12)POLYMORPHISM
+13)TYPE HINTING
+14)get set and call methods
+15)traits
+16)static call
+
